@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Zamil+Jahid;Flutter+%26+Dart+Developer;Backend+%7C+.NET+%7C+API+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Zamil+Jahid;Mobile+App+Developer+(Flutter+for+Android+%26+iOS);Backend+Developer+(.NET+%7C+API+Engineering)" alt="Typing SVG" />
 </h1>
+
 
 
 <p align="center">
