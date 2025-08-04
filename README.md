@@ -60,7 +60,7 @@
   <a href="https://www.youtube.com/@zamiljahid" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/zamiljahid" target="_blank">
+  <a href="www.linkedin.com/in/mohammad-zamil-jahid-761038255" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/zamiljahid" target="_blank">
