@@ -16,7 +16,7 @@
 
 ### 💼 Currently Working At
 <p align="center">
-  <a href="https://azolution.com/">
+  <a href="https://azolutionse.com/" target="_blank">
     <img src="https://img.shields.io/badge/Azolution_Software_%26_Engineers_Ltd-Mobile_App_Developer-blue?style=for-the-badge&logo=workplace&logoColor=white" />
   </a>
 </p>
